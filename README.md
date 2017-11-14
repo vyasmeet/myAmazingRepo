@@ -1,0 +1,2 @@
+# myAmazingRepo
+Learning git
